@@ -1,0 +1,16 @@
+바닥찍기이펙트
+
+1. glow, light, flash, flare
+
+2. ray
+
+3. spark
+
+4. smoke, dust
+
+5. debris, rock, stone
+
+6. crack
+
+7. shockwave, ring
+
